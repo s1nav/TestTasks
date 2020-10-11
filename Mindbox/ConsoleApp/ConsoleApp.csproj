@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Mindbox\AreaCalc.csproj" />
+    <ProjectReference Include="..\AreaCalc\AreaCalc.csproj" />
   </ItemGroup>
 
 </Project>
